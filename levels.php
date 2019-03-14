@@ -141,7 +141,203 @@ if(isset($_GET['a1/1/1'])) {
     
     echo 'Present Continuous 2';
     
-}
+} else if (isset($_GET['a2/1/1'])) {
+    
+    echo 'Приятели и семейство!/Friends and family!';
+        
+} else if (isset($_GET['a2/1/2'])) {
+    
+    echo 'Излизам в града ми/Going out in my city';
+    
+}  else if (isset($_GET['a2/2/1'])) {
+    
+    echo 'Много работа!/A lot of work!';
+    
+} else if (isset($_GET['a2/2/2'])) {
+    
+    echo 'Търсене на работа/Looking for a job';
+    
+} else if (isset($_GET['a2/3/1'])) {
+    
+    echo 'Новата ми къща!/My new house!';
+    
+} else if (isset($_GET['a2/3/2'])) {
+    
+    echo 'Изнасяме се!/We are moving out!';
+    
+} else if (isset($_GET['a2/4/1'])) {
+    
+    echo 'Всичко за филмите!/All about films!';
+    
+} else if (isset($_GET['a2/4/2'])) {
+    
+    echo 'Културата в града ми/Culture in my city';
+    
+} else if (isset($_GET['a2/5/1'])) {
+    
+    echo 'Спортове и игри/Sports and games';
+    
+} else if (isset($_GET['a2/5/2'])) {
+    
+    echo 'Оставане във форма/Staying fit';
+    
+} else if (isset($_GET['a2/6/1'])) {
+    
+    echo 'Правене на планове/Making plans';
+    
+} else if (isset($_GET['a2/6/2'])) {
+    
+    echo 'Говорене за бъдещето/Talking about the future';
+    
+} else if (isset($_GET['b1/1/1'])) {
+    
+    echo 'Ad campaigns';
+    
+} else if (isset($_GET['b1/1/2'])) {
+    
+    echo 'The use of ‘go’, ‘play’ and ‘do’ with adverbs of frequency';
+    
+} else if (isset($_GET['b1/2/1'])) {
+    
+    echo 'Urban tribes';
+    
+} else if (isset($_GET['b1/2/2'])) {
+    
+    echo 'Modals of deduction';
+    
+} else if (isset($_GET['b1/3/1'])) {
+    
+    echo 'Criticism of film and theatre';
+    
+} else if (isset($_GET['b1/3/2'])) {
+    
+    echo 'Verb noun collocations';
+    
+} else if (isset($_GET['b1/4/1'])) {
+    
+    echo 'Moving abroad can be difficult';
+    
+} else if (isset($_GET['b1/4/2'])) {
+    
+    echo 'More on infinitives of purpose';
+    
+} else if (isset($_GET['b1/5/1'])) {
+    
+    echo 'Questions with "Do" and Negative Questions';
+    
+} else if (isset($_GET['b1/5/2'])) {
+    
+    echo 'More on infinitives of purpose';
+    
+} else if (isset($_GET['b2/1/1'])) {
+    
+    echo 'Negotiating';
+    
+} else if (isset($_GET['b2/1/2'])) {
+    
+    echo 'The present perfect continuous';
+    
+} else if (isset($_GET['b2/2/1'])) {
+    
+    echo 'What is the ideal city?';
+    
+} else if (isset($_GET['b2/2/2'])) {
+    
+    echo 'American and British English: spelling';
+    
+} else if (isset($_GET['b2/3/1'])) {
+    
+    echo 'Writing a review of an album';
+    
+} else if (isset($_GET['b2/3/2'])) {
+    
+    echo 'Advanced uses of the future';
+    
+} else if (isset($_GET['c1/1/1'])) {
+    
+    echo 'Subordinating conjunctions';
+    
+} else if (isset($_GET['c1/1/2'])) {
+    
+    echo 'Analogies';
+    
+} else if (isset($_GET['c1/2/1'])) {
+    
+    echo 'Future in the past';
+    
+} else if (isset($_GET['c1/2/2'])) {
+    
+    echo 'Admitting fault and apologising';
+    
+} else if (isset($_GET['c1/3/1'])) {
+    
+    echo 'Structuring a sentence: relative clauses';
+    
+} else if (isset($_GET['c1/3/2'])) {
+    
+    echo 'Expressing regrets and criticisms';
+    
+} else if (isset($_GET['c1/4/1'])) {
+    
+    echo 'Structuring a sentence: inversion';
+    
+} else if (isset($_GET['c1/4/2'])) {
+    
+    echo 'Negotiating and dealing with conflict';
+    
+} else if (isset($_GET['c1/5/1'])) {
+    
+    echo 'Modals in the past';
+    
+} else if (isset($_GET['c1/5/2'])) {
+    
+    echo 'Speculation and deduction';
+    
+} else if (isset($_GET['c1/6/1'])) {
+    
+    echo 'Ellipsis';
+    
+} else if (isset($_GET['c1/6/2'])) {
+    
+    echo 'Making presentations and speeches';
+
+} else if (isset($_GET['c2/1/1'])) {
+    
+    echo 'Analogies';
+    
+} else if (isset($_GET['c2/1/2'])) {
+    
+    echo 'Metaphors and Similes';
+    
+} else if (isset($_GET['c2/1/3'])) {
+    
+    echo 'Writing Headlines';
+    
+} else if (isset($_GET['c2/1/4'])) {
+    
+    echo 'Poetry';
+    
+} else if (isset($_GET['c2/1/5'])) {
+    
+    echo 'Rhetoric';
+    
+} else if (isset($_GET['c2/2/1'])) {
+    
+    echo 'Common Mistakes in English';
+    
+} else if (isset($_GET['c2/2/2'])) {
+    
+    echo 'Polishing Your Grammar';
+    
+} else if (isset($_GET['c2/2/3'])) {
+    
+    echo 'Adverb Placement';
+    
+} else if (isset($_GET['c2/2/4'])) {
+    
+    echo 'Homonyms';
+    
+}   
 ?>
 		</h1>
 	</div>
